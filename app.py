@@ -3,7 +3,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return "Hello from Render PaaS!"
+    return "CC-Lab Experiment-10 . Implementing service model of Platform as a Service"
 
 if __name__ == '__main__':
     app.run()
